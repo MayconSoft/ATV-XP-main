@@ -3,7 +3,7 @@
 
 /*
  * calcula_gorjeta
- * ----------------
+ * ---------------
  * Calcula o valor da gorjeta a partir do valor da conta e do
  * percentual desejado.
  *
